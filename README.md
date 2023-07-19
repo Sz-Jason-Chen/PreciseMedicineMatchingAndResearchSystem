@@ -1,2 +1,5 @@
-# PreciseMedicineMatchingAndResearchSystem
- Precise Medicine Matching and Research System (PMMRS) is a server capable of querying some simple drug information, as well as matching drugs affected by variants through the genetic variant file.
+ACKNOWLEDGMENT:
+The previous version of the Precise Medicine Matching and Research System (PMMRS) project is a group assignment for the Database and Software Technology course in ZJU. The initial version was jointly completed by S. Chen (JasonChen2118), C. Chen, Y. Xiao, Z. Cheng and J Deng. Special thanks to Y. Xiao for his substantial contribution in biological sequencing and variant calling. In June 2023, the assignment, also the personal reflective reports of this project had been submitted and graded. Based on learning, practice, and application purposes, the author continues to develop this immature project. All data related to personal privacy has been deleted, whether they are personal reports or testing data.
+
+The clinical data were obtained from the PharmGKB. Some of them were directly installed and some were obtained through a crwaler written by Python. The database was constructed by MySQL to store the clinical data and the users' data. The server was written by Java and build by Tomcat to produce a website to do some simple query for drug or gene, or do a matching to find potential influences caused by sequence variants. 
+

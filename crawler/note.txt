@@ -1,0 +1,3488 @@
+{
+	"data": {
+		"components": [{
+			"controls": [{
+				"objCls": "Gene",
+				"id": "PA29444",
+				"symbol": "HRAS",
+				"name": "HRas proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30196",
+				"symbol": "KRAS",
+				"name": "KRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30932",
+				"symbol": "MRAS",
+				"name": "muscle RAS oncogene homolog"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31768",
+				"symbol": "NRAS",
+				"name": "NRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34861",
+				"symbol": "RRAS",
+				"name": "RAS related"
+			}],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA24928",
+				"symbol": "ARAF",
+				"name": "A-Raf proto-oncogene, serine/threonine kinase"
+			}],
+			"literature": [{
+				"id": 15021000,
+				"xref": {
+					"id": 1449268851,
+					"resource": "PubMed",
+					"resourceId": "22083257",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA24928",
+				"symbol": "ARAF",
+				"name": "A-Raf proto-oncogene, serine/threonine kinase"
+			}]
+		}, {
+			"controls": [{
+				"objCls": "Chemical",
+				"id": "PA165946873",
+				"name": "vemurafenib"
+			}, {
+				"objCls": "Gene",
+				"id": "PA29444",
+				"symbol": "HRAS",
+				"name": "HRas proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30196",
+				"symbol": "KRAS",
+				"name": "KRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30932",
+				"symbol": "MRAS",
+				"name": "muscle RAS oncogene homolog"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31768",
+				"symbol": "NRAS",
+				"name": "NRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34861",
+				"symbol": "RRAS",
+				"name": "RAS related"
+			}],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA25408",
+				"symbol": "BRAF",
+				"name": "B-Raf proto-oncogene, serine/threonine kinase"
+			}],
+			"literature": [{
+				"id": 15021000,
+				"xref": {
+					"id": 1449268851,
+					"resource": "PubMed",
+					"resourceId": "22083257",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+				}
+			}, {
+				"id": 15021017,
+				"xref": {
+					"id": 1449268855,
+					"resource": "PubMed",
+					"resourceId": "22028422",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22028422"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA25408",
+				"symbol": "BRAF",
+				"name": "B-Raf proto-oncogene, serine/threonine kinase"
+			}]
+		}, {
+			"controls": [{
+				"objCls": "Gene",
+				"id": "PA30584",
+				"symbol": "MAP2K1",
+				"name": "mitogen-activated protein kinase kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30587",
+				"symbol": "MAP2K2",
+				"name": "mitogen-activated protein kinase kinase 2"
+			}],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA30616",
+				"symbol": "MAPK1",
+				"name": "mitogen-activated protein kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30622",
+				"symbol": "MAPK3",
+				"name": "mitogen-activated protein kinase 3"
+			}],
+			"literature": [{
+				"id": 15021010,
+				"xref": {
+					"id": 1449268853,
+					"resource": "PubMed",
+					"resourceId": "11294822",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA30616",
+				"symbol": "MAPK1",
+				"name": "mitogen-activated protein kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30622",
+				"symbol": "MAPK3",
+				"name": "mitogen-activated protein kinase 3"
+			}]
+		}, {
+			"controls": [{
+				"objCls": "Gene",
+				"id": "PA7360",
+				"symbol": "EGFR",
+				"name": "epidermal growth factor receptor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28127",
+				"symbol": "FGFR1",
+				"name": "fibroblast growth factor receptor 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28128",
+				"symbol": "FGFR2",
+				"name": "fibroblast growth factor receptor 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28129",
+				"symbol": "FGFR3",
+				"name": "fibroblast growth factor receptor 3"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28131",
+				"symbol": "FGFR3P1",
+				"name": "fibroblast growth factor receptor 3 pseudogene 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28130",
+				"symbol": "FGFR4",
+				"name": "fibroblast growth factor receptor 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28180",
+				"symbol": "FLT1",
+				"name": "fms related tyrosine kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28183",
+				"symbol": "FLT4",
+				"name": "fms related tyrosine kinase 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30086",
+				"symbol": "KDR",
+				"name": "kinase insert domain receptor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33147",
+				"symbol": "PDGFRA",
+				"name": "platelet derived growth factor receptor alpha"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33148",
+				"symbol": "PDGFRB",
+				"name": "platelet derived growth factor receptor beta"
+			}],
+			"inputs": [{
+				"objCls": "ComplexEntity",
+				"id": "PA166124805",
+				"name": "GRB2-SOS"
+			}],
+			"literature": [{
+				"id": 15021010,
+				"xref": {
+					"id": 1449268853,
+					"resource": "PubMed",
+					"resourceId": "11294822",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+				}
+			}],
+			"outputs": [{
+				"objCls": "ComplexEntity",
+				"id": "PA166124809",
+				"name": "GRB2-SOS"
+			}]
+		}, {
+			"controls": [{
+				"objCls": "Gene",
+				"id": "PA24928",
+				"symbol": "ARAF",
+				"name": "A-Raf proto-oncogene, serine/threonine kinase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA25408",
+				"symbol": "BRAF",
+				"name": "B-Raf proto-oncogene, serine/threonine kinase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34183",
+				"symbol": "RAF1",
+				"name": "Raf-1 proto-oncogene, serine/threonine kinase"
+			}],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA30584",
+				"symbol": "MAP2K1",
+				"name": "mitogen-activated protein kinase kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30587",
+				"symbol": "MAP2K2",
+				"name": "mitogen-activated protein kinase kinase 2"
+			}],
+			"literature": [{
+				"id": 15021000,
+				"xref": {
+					"id": 1449268851,
+					"resource": "PubMed",
+					"resourceId": "22083257",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA30584",
+				"symbol": "MAP2K1",
+				"name": "mitogen-activated protein kinase kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30587",
+				"symbol": "MAP2K2",
+				"name": "mitogen-activated protein kinase kinase 2"
+			}]
+		}, {
+			"controls": [{
+				"objCls": "Gene",
+				"id": "PA29444",
+				"symbol": "HRAS",
+				"name": "HRas proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30196",
+				"symbol": "KRAS",
+				"name": "KRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30932",
+				"symbol": "MRAS",
+				"name": "muscle RAS oncogene homolog"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31768",
+				"symbol": "NRAS",
+				"name": "NRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34861",
+				"symbol": "RRAS",
+				"name": "RAS related"
+			}],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA34183",
+				"symbol": "RAF1",
+				"name": "Raf-1 proto-oncogene, serine/threonine kinase"
+			}],
+			"literature": [{
+				"id": 15021000,
+				"xref": {
+					"id": 1449268851,
+					"resource": "PubMed",
+					"resourceId": "22083257",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA34183",
+				"symbol": "RAF1",
+				"name": "Raf-1 proto-oncogene, serine/threonine kinase"
+			}]
+		}, {
+			"controls": [{
+				"objCls": "ComplexEntity",
+				"id": "PA166124809",
+				"name": "GRB2-SOS"
+			}],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA29444",
+				"symbol": "HRAS",
+				"name": "HRas proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30196",
+				"symbol": "KRAS",
+				"name": "KRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30932",
+				"symbol": "MRAS",
+				"name": "muscle RAS oncogene homolog"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31768",
+				"symbol": "NRAS",
+				"name": "NRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34861",
+				"symbol": "RRAS",
+				"name": "RAS related"
+			}],
+			"literature": [{
+				"id": 15021010,
+				"xref": {
+					"id": 1449268853,
+					"resource": "PubMed",
+					"resourceId": "11294822",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA29444",
+				"symbol": "HRAS",
+				"name": "HRas proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30196",
+				"symbol": "KRAS",
+				"name": "KRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30932",
+				"symbol": "MRAS",
+				"name": "muscle RAS oncogene homolog"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31768",
+				"symbol": "NRAS",
+				"name": "NRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34861",
+				"symbol": "RRAS",
+				"name": "RAS related"
+			}]
+		}, {
+			"controls": [{
+				"objCls": "Gene",
+				"id": "PA30616",
+				"symbol": "MAPK1",
+				"name": "mitogen-activated protein kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30622",
+				"symbol": "MAPK3",
+				"name": "mitogen-activated protein kinase 3"
+			}],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA27902",
+				"symbol": "ETS1",
+				"name": "ETS proto-oncogene 1, transcription factor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30006",
+				"symbol": "JUN",
+				"name": "Jun proto-oncogene, AP-1 transcription factor subunit"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31353",
+				"symbol": "MYC",
+				"name": "MYC proto-oncogene, bHLH transcription factor"
+			}],
+			"literature": [{
+				"id": 15021020,
+				"xref": {
+					"id": 1449268857,
+					"resource": "PubMed",
+					"resourceId": "16854453",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/16854453"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA27902",
+				"symbol": "ETS1",
+				"name": "ETS proto-oncogene 1, transcription factor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30006",
+				"symbol": "JUN",
+				"name": "Jun proto-oncogene, AP-1 transcription factor subunit"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31353",
+				"symbol": "MYC",
+				"name": "MYC proto-oncogene, bHLH transcription factor"
+			}]
+		}, {
+			"controls": [],
+			"inputs": [{
+				"objCls": "Gene",
+				"id": "PA27664",
+				"symbol": "EGF",
+				"name": "epidermal growth factor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28105",
+				"symbol": "FGF1",
+				"name": "fibroblast growth factor 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28115",
+				"symbol": "FGF2",
+				"name": "fibroblast growth factor 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28120",
+				"symbol": "FGF3",
+				"name": "fibroblast growth factor 3"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28121",
+				"symbol": "FGF4",
+				"name": "fibroblast growth factor 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28122",
+				"symbol": "FGF5",
+				"name": "fibroblast growth factor 5"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28123",
+				"symbol": "FGF6",
+				"name": "fibroblast growth factor 6"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28124",
+				"symbol": "FGF7",
+				"name": "fibroblast growth factor 7"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33144",
+				"symbol": "PDGFA",
+				"name": "platelet derived growth factor subunit A"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33145",
+				"symbol": "PDGFB",
+				"name": "platelet derived growth factor subunit B"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33146",
+				"symbol": "PDGFC",
+				"name": "platelet derived growth factor C"
+			}, {
+				"objCls": "Gene",
+				"id": "PA134892327",
+				"symbol": "PDGFD",
+				"name": "platelet derived growth factor D"
+			}, {
+				"objCls": "Gene",
+				"id": "PA37302",
+				"symbol": "VEGFA",
+				"name": "vascular endothelial growth factor A"
+			}, {
+				"objCls": "Gene",
+				"id": "PA37303",
+				"symbol": "VEGFB",
+				"name": "vascular endothelial growth factor B"
+			}],
+			"literature": [{
+				"id": 15021010,
+				"xref": {
+					"id": 1449268853,
+					"resource": "PubMed",
+					"resourceId": "11294822",
+					"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+				}
+			}],
+			"outputs": [{
+				"objCls": "Gene",
+				"id": "PA7360",
+				"symbol": "EGFR",
+				"name": "epidermal growth factor receptor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28127",
+				"symbol": "FGFR1",
+				"name": "fibroblast growth factor receptor 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28128",
+				"symbol": "FGFR2",
+				"name": "fibroblast growth factor receptor 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28129",
+				"symbol": "FGFR3",
+				"name": "fibroblast growth factor receptor 3"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28131",
+				"symbol": "FGFR3P1",
+				"name": "fibroblast growth factor receptor 3 pseudogene 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28130",
+				"symbol": "FGFR4",
+				"name": "fibroblast growth factor receptor 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28180",
+				"symbol": "FLT1",
+				"name": "fms related tyrosine kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28183",
+				"symbol": "FLT4",
+				"name": "fms related tyrosine kinase 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30086",
+				"symbol": "KDR",
+				"name": "kinase insert domain receptor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33147",
+				"symbol": "PDGFRA",
+				"name": "platelet derived growth factor receptor alpha"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33148",
+				"symbol": "PDGFRB",
+				"name": "platelet derived growth factor receptor beta"
+			}]
+		}],
+		"counts": {
+			"literature": {
+				"pediatric": 0,
+				"total": 4
+			},
+			"pathway": {
+				"pediatric": 0,
+				"total": 2
+			}
+		},
+		"interactions": [],
+		"literature": [{
+			"id": "15021010",
+			"objCls": "Literature",
+			"connectivity": 1,
+			"hasData": true,
+			"name": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+			"numClinicalAnnotations": 0,
+			"numCpicAnnotations": 0,
+			"numGuidelineAnnotations": 0,
+			"numHaplotypes": 0,
+			"numLabelAnnotations": 0,
+			"numPediatricClinicalAnnotations": 0,
+			"numPediatricCpicGuidelineAnnotations": 0,
+			"numPediatricGuidelineAnnotations": 0,
+			"numPediatricLabelAnnotations": 0,
+			"numPediatricVariantAnnotations": 0,
+			"numTopClinicalAnnotations": 0,
+			"numTopPediatricClinicalAnnotations": 0,
+			"numVariantAnnotations": 0,
+			"properties": {
+				"authors": ["Pearson G", "Robinson F", "Beers Gibson T", "Xu B E", "Karandikar M", "Berman K", "Cobb M H"],
+				"journal": "Endocrine reviews",
+				"month": 4,
+				"pgxPaperTypes": [],
+				"year": 2001
+			},
+			"url": "/literature/15021010"
+		}, {
+			"id": "15021020",
+			"objCls": "Literature",
+			"connectivity": 1,
+			"hasData": true,
+			"name": "Roles of the RAF/MEK/ERK and PI3K/PTEN/AKT pathways in malignant transformation and drug resistance.",
+			"numClinicalAnnotations": 0,
+			"numCpicAnnotations": 0,
+			"numGuidelineAnnotations": 0,
+			"numHaplotypes": 0,
+			"numLabelAnnotations": 0,
+			"numPediatricClinicalAnnotations": 0,
+			"numPediatricCpicGuidelineAnnotations": 0,
+			"numPediatricGuidelineAnnotations": 0,
+			"numPediatricLabelAnnotations": 0,
+			"numPediatricVariantAnnotations": 0,
+			"numTopClinicalAnnotations": 0,
+			"numTopPediatricClinicalAnnotations": 0,
+			"numVariantAnnotations": 0,
+			"properties": {
+				"authors": ["McCubrey James A", "Steelman Linda S", "Abrams Steven L", "Lee John T", "Chang Fumin", "Bertrand Fred E", "Navolanic Patrick M", "Terrian David M", "Franklin Richard A", "D'Assoro Antonio B", "Salisbury Jeffrey L", "Mazzarino Maria Clorinda", "Stivala Franca", "Libra Massimo"],
+				"journal": "Advances in enzyme regulation",
+				"pgxPaperTypes": [],
+				"year": 2006
+			},
+			"url": "/literature/15021020"
+		}, {
+			"id": "15021000",
+			"objCls": "Literature",
+			"connectivity": 1,
+			"hasData": true,
+			"name": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+			"numClinicalAnnotations": 0,
+			"numCpicAnnotations": 0,
+			"numGuidelineAnnotations": 0,
+			"numHaplotypes": 0,
+			"numLabelAnnotations": 0,
+			"numPediatricClinicalAnnotations": 0,
+			"numPediatricCpicGuidelineAnnotations": 0,
+			"numPediatricGuidelineAnnotations": 0,
+			"numPediatricLabelAnnotations": 0,
+			"numPediatricVariantAnnotations": 0,
+			"numTopClinicalAnnotations": 0,
+			"numTopPediatricClinicalAnnotations": 0,
+			"numVariantAnnotations": 0,
+			"properties": {
+				"authors": ["Luke Jason J", "Hodi F Stephen"],
+				"journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+				"month": 1,
+				"pgxPaperTypes": [],
+				"year": 2012
+			},
+			"url": "/literature/15021000"
+		}, {
+			"id": "15021017",
+			"objCls": "Literature",
+			"connectivity": 1,
+			"hasData": true,
+			"name": "Vemurafenib (PLX4032): an orally available inhibitor of mutated BRAF for the treatment of metastatic melanoma.",
+			"numClinicalAnnotations": 0,
+			"numCpicAnnotations": 0,
+			"numGuidelineAnnotations": 0,
+			"numHaplotypes": 0,
+			"numLabelAnnotations": 0,
+			"numPediatricClinicalAnnotations": 0,
+			"numPediatricCpicGuidelineAnnotations": 0,
+			"numPediatricGuidelineAnnotations": 0,
+			"numPediatricLabelAnnotations": 0,
+			"numPediatricVariantAnnotations": 0,
+			"numTopClinicalAnnotations": 0,
+			"numTopPediatricClinicalAnnotations": 0,
+			"numVariantAnnotations": 0,
+			"properties": {
+				"authors": ["Heakal Yasser", "Kester Mark", "Savage Scott"],
+				"journal": "The Annals of pharmacotherapy",
+				"month": 11,
+				"pgxPaperTypes": [],
+				"year": 2011
+			},
+			"url": "/literature/15021017"
+		}],
+		"pathway": {
+			"objCls": "Pathway",
+			"id": "PA165980050",
+			"name": "Vemurafenib Pathway, Pharmacodynamics",
+			"alternateViews": [],
+			"authors": "Craig P. Giacomini, Everett Lai, Li Gong.",
+			"biopaxLink": "submission/PS216373-1444696885.owl",
+			"chemicals": [{
+				"objCls": "Chemical",
+				"id": "PA165946873",
+				"name": "vemurafenib"
+			}],
+			"crossReferences": [],
+			"description": {
+				"id": 1447980245,
+				"html": "<p>One of the established signaling pathways in cancer development is the mitogen-activated protein kinase (MAPK) pathway.  This pathway links extracellular stimuli, such as growth factors and hormone, to gene expression in the nucleus.  Growth factor signals progress through the proteins RAS, BRAF, MEK and ERK, leading to cell proliferation.  Mutations in the BRAF gene cause elevated kinase activity of the BRAF protein, which is seen in 8% of all solid tumors and in 50% of melanoma cases.  The BRAF V600E mutation (<a href=\"/variant/PA166157522\">rs113488022</a>), which involves the substitution of valine (V) by glutamate (E) within the activation segment of the kinase domain , represents the vast majority of all BRAF mutations in cancer.  Vemurafenib, approved by the FDA in August of 2011, is an oral BRAF inhibitor that specifically targets the V600E isoform [Articles:<a href=\"/pmid/20818844\">20818844</a>, <a href=\"/pmid/22028422\">22028422</a>]. Clinical studies showed that vemurafenib improved rates of overall and progression-free survival in patients with previously untreated melanoma with the BRAF V600E mutation [Article:<a href=\"/pmid/21639808\">21639808</a>].</p>\n<p>The RAF family is a set of serine/threonine kinases, which include BRAF, ARAF and CRAF (also called RAF1), that signals through phosphorylation of other downstream kinases.  Upstream from RAF is RAS, the guanine nucleotide-binding protein activated by the binding of GTP.  In the normal signaling pathway, an extracellular signal binds to a receptor tyrosine kinase on the cell surface. The types of receptors that signal through tyrosine kinases include those for fibroblast growth factors (FGFR), plate-derived growth factors (PDGFR), vascular epidermal growth factors (VEGFR), epidermal growth factors (EGFR), and nerve growth factors (NGFR), among others. When bound to the ligand, the receptor tyrosine kinase undergoes autophosphorylation of its tyrosine residues. This results in the phosphorylation of GRB2, an adapter protein that binds to the guanine nucleotide exchange factor, SOS. The GRB2/SOS complex stimulates inactive RAS by replacing bound GDP with GTP [Article:<a href=\"/pmid/11294822\">11294822</a>].  Activated RAS causes BRAF to form a dimer with the other RAF isoforms ARAF and CRAF [Article:<a href=\"/pmid/22083257\">22083257</a>]. Dimerization activates and phosphorylates MEK, which is a dual-specificity tyrosine and serine/threonine kinase. The main downstream target of MEK is ERK (also called MAPK). Upon phosphorylation by MEK, ERK can directly phosphorylate and activate a variety of transcription factors, such as Ets-1, c-Jun and c-Myc [Article:<a href=\"/pmid/16854453\">16854453</a>].</p>\n<p>In mutated BRAF, the protein does not form dimers with the other RAF isoforms. The resulting monomer signals down the pathway regardless of any extracellular growth stimuli or RAS activity, resulting in elevated growth activity. The V600E isoform results in a structural conformation change that makes the ATP binding site constantly accessible [Article:<a href=\"/pmid/22028422\">22028422</a>].  Vemurafenib is an ATP-competitive inhibitor of mutant BRAF [Article:<a href=\"/pmid/22028422\">22028422</a>]. Treatment with vemurafenib inhibits the signaling of mutant BRAF monomers, leading to G1 cell-cycle arrest [Articles:<a href=\"/pmid/22083257\">22083257</a>, <a href=\"/pmid/22028422\">22028422</a>].  BRAF inhibition leads to increased expression of melanocyte antigens and increased activity of cytotoxic T cells [Article:<a href=\"/pmid/22037033\">22037033</a>].</p>\n<p>In clinical trials, treatment with vemurafenib has been shown to reduce activation of downstream signals and cellular proliferation [Article:<a href=\"/pmid/20818844\">20818844</a>]. Based on the results of the phase 1 dose-escalation trial, a recommended dose of 960 mg twice daily was used in an extension phase trial. The extension cohort included 32 melanoma patients all with the V600E mutation. 26 of the 32 patients showed a response to the treatment; 2 patients had a complete response and 24 patients had a partial response. For 7 patients in the extension cohort, tumor biopsy specimens were taken at baseline and at day 15 [Article:<a href=\"/pmid/20818844\">20818844</a>]. In all of these specimens, there was reduction in levels of phosphorylated ERK, cyclin D1 and Ki-67, suggesting that vemurafenib effectively inhibited the MAPK pathway.</p>\n"
+			},
+			"diseases": [],
+			"formatVersion": 1,
+			"genes": [{
+				"objCls": "Gene",
+				"id": "PA24928",
+				"symbol": "ARAF",
+				"name": "A-Raf proto-oncogene, serine/threonine kinase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA25408",
+				"symbol": "BRAF",
+				"name": "B-Raf proto-oncogene, serine/threonine kinase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA27664",
+				"symbol": "EGF",
+				"name": "epidermal growth factor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA7360",
+				"symbol": "EGFR",
+				"name": "epidermal growth factor receptor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA27902",
+				"symbol": "ETS1",
+				"name": "ETS proto-oncogene 1, transcription factor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28105",
+				"symbol": "FGF1",
+				"name": "fibroblast growth factor 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28115",
+				"symbol": "FGF2",
+				"name": "fibroblast growth factor 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28120",
+				"symbol": "FGF3",
+				"name": "fibroblast growth factor 3"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28121",
+				"symbol": "FGF4",
+				"name": "fibroblast growth factor 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28122",
+				"symbol": "FGF5",
+				"name": "fibroblast growth factor 5"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28123",
+				"symbol": "FGF6",
+				"name": "fibroblast growth factor 6"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28124",
+				"symbol": "FGF7",
+				"name": "fibroblast growth factor 7"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28127",
+				"symbol": "FGFR1",
+				"name": "fibroblast growth factor receptor 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28128",
+				"symbol": "FGFR2",
+				"name": "fibroblast growth factor receptor 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28129",
+				"symbol": "FGFR3",
+				"name": "fibroblast growth factor receptor 3"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28131",
+				"symbol": "FGFR3P1",
+				"name": "fibroblast growth factor receptor 3 pseudogene 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28130",
+				"symbol": "FGFR4",
+				"name": "fibroblast growth factor receptor 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28180",
+				"symbol": "FLT1",
+				"name": "fms related tyrosine kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28183",
+				"symbol": "FLT4",
+				"name": "fms related tyrosine kinase 4"
+			}, {
+				"objCls": "Gene",
+				"id": "PA28962",
+				"symbol": "GRB2",
+				"name": "growth factor receptor bound protein 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA29444",
+				"symbol": "HRAS",
+				"name": "HRas proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30006",
+				"symbol": "JUN",
+				"name": "Jun proto-oncogene, AP-1 transcription factor subunit"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30086",
+				"symbol": "KDR",
+				"name": "kinase insert domain receptor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30196",
+				"symbol": "KRAS",
+				"name": "KRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30584",
+				"symbol": "MAP2K1",
+				"name": "mitogen-activated protein kinase kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30587",
+				"symbol": "MAP2K2",
+				"name": "mitogen-activated protein kinase kinase 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30616",
+				"symbol": "MAPK1",
+				"name": "mitogen-activated protein kinase 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30622",
+				"symbol": "MAPK3",
+				"name": "mitogen-activated protein kinase 3"
+			}, {
+				"objCls": "Gene",
+				"id": "PA30932",
+				"symbol": "MRAS",
+				"name": "muscle RAS oncogene homolog"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31353",
+				"symbol": "MYC",
+				"name": "MYC proto-oncogene, bHLH transcription factor"
+			}, {
+				"objCls": "Gene",
+				"id": "PA31768",
+				"symbol": "NRAS",
+				"name": "NRAS proto-oncogene, GTPase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33144",
+				"symbol": "PDGFA",
+				"name": "platelet derived growth factor subunit A"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33145",
+				"symbol": "PDGFB",
+				"name": "platelet derived growth factor subunit B"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33146",
+				"symbol": "PDGFC",
+				"name": "platelet derived growth factor C"
+			}, {
+				"objCls": "Gene",
+				"id": "PA134892327",
+				"symbol": "PDGFD",
+				"name": "platelet derived growth factor D"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33147",
+				"symbol": "PDGFRA",
+				"name": "platelet derived growth factor receptor alpha"
+			}, {
+				"objCls": "Gene",
+				"id": "PA33148",
+				"symbol": "PDGFRB",
+				"name": "platelet derived growth factor receptor beta"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34183",
+				"symbol": "RAF1",
+				"name": "Raf-1 proto-oncogene, serine/threonine kinase"
+			}, {
+				"objCls": "Gene",
+				"id": "PA34861",
+				"symbol": "RRAS",
+				"name": "RAS related"
+			}, {
+				"objCls": "Gene",
+				"id": "PA36024",
+				"symbol": "SOS1",
+				"name": "SOS Ras/Rac guanine nucleotide exchange factor 1"
+			}, {
+				"objCls": "Gene",
+				"id": "PA36025",
+				"symbol": "SOS2",
+				"name": "SOS Ras/Rho guanine nucleotide exchange factor 2"
+			}, {
+				"objCls": "Gene",
+				"id": "PA37302",
+				"symbol": "VEGFA",
+				"name": "vascular endothelial growth factor A"
+			}, {
+				"objCls": "Gene",
+				"id": "PA37303",
+				"symbol": "VEGFB",
+				"name": "vascular endothelial growth factor B"
+			}],
+			"gpmlLink": "submission/PS216373-1444696884.gpml",
+			"history": [{
+				"id": 1184348564,
+				"date": "2012-10-01T00:00:00-07:00",
+				"type": "Create",
+				"version": 0
+			}],
+			"illustratorLink": "https://api.pharmgkb.org/v1/download/file/pathway/PA165980050.ai?versionId=yPfT5qneB9bBWYzful7sxzlSNzfnQMzI",
+			"imageLink": "https://s3.pgkb.org/pathway/PA165980050.png?versionId=08_YTr2i1guYHALVHVe8FWrqF4wdZ8uL",
+			"interactions": [],
+			"literature": [],
+			"nodes": [],
+			"pathwayComponents": [{
+				"objCls": "Conversion",
+				"id": "PA166124839",
+				"name": "BiochemicalReaction Of ARAF To ARAF",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124872",
+					"name": "Control_Activation 31"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124840",
+					"name": "ARAF"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124841",
+					"name": "ARAF"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124840",
+					"name": "ARAF"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124841",
+					"name": "ARAF"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124864",
+				"name": "BiochemicalReaction Of BRAF To BRAF",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124868",
+					"name": "Control_Activation 41"
+				}, {
+					"objCls": "Control",
+					"id": "PA166124869",
+					"name": "Control_Inhibition 43"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124865",
+					"name": "BRAF"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}, {
+					"id": 15021017,
+					"title": "Vemurafenib (PLX4032): an orally available inhibitor of mutated BRAF for the treatment of metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22028422",
+					"crossReferences": [{
+						"id": 1449268855,
+						"resource": "PubMed",
+						"resourceId": "22028422",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22028422"
+					}, {
+						"id": 1449268856,
+						"resource": "DOI",
+						"resourceId": "10.1345/aph.1Q363",
+						"_url": "http://dx.doi.org/10.1345%2Faph.1Q363"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124866",
+					"name": "BRAF"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124865",
+					"name": "BRAF"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124866",
+					"name": "BRAF"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124825",
+				"name": "BiochemicalReaction Of ERK To ERK",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124822",
+					"name": "Control_Activation 48"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124826",
+					"name": "ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124827",
+					"name": "ERK"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021010,
+					"title": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/11294822",
+					"crossReferences": [{
+						"id": 1449268853,
+						"resource": "PubMed",
+						"resourceId": "11294822",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+					}, {
+						"id": 1449268854,
+						"resource": "DOI",
+						"resourceId": "10.1210/edrv.22.2.0428",
+						"_url": "http://dx.doi.org/10.1210%2Fedrv.22.2.0428"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124828",
+					"name": "ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124829",
+					"name": "ERK"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124826",
+					"name": "ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124827",
+					"name": "ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124828",
+					"name": "ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124829",
+					"name": "ERK"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124804",
+				"name": "BiochemicalReaction Of GRB2-SOS To GRB2-SOS",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124792",
+					"name": "Control_Activation 69"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "ComplexEntity",
+					"id": "PA166124805",
+					"name": "GRB2-SOS"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021010,
+					"title": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/11294822",
+					"crossReferences": [{
+						"id": 1449268853,
+						"resource": "PubMed",
+						"resourceId": "11294822",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+					}, {
+						"id": 1449268854,
+						"resource": "DOI",
+						"resourceId": "10.1210/edrv.22.2.0428",
+						"_url": "http://dx.doi.org/10.1210%2Fedrv.22.2.0428"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "ComplexEntity",
+					"id": "PA166124809",
+					"name": "GRB2-SOS"
+				}],
+				"participants": [{
+					"objCls": "ComplexEntity",
+					"id": "PA166124805",
+					"name": "GRB2-SOS"
+				}, {
+					"objCls": "ComplexEntity",
+					"id": "PA166124809",
+					"name": "GRB2-SOS"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124836",
+				"name": "BiochemicalReaction Of MEK To MEK",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124871",
+					"name": "Control_Activation 53"
+				}, {
+					"objCls": "Control",
+					"id": "PA166124877",
+					"name": "Control_Activation 55"
+				}, {
+					"objCls": "Control",
+					"id": "PA166124876",
+					"name": "Control_Activation 57"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124837",
+					"name": "MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124838",
+					"name": "MEK"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124823",
+					"name": "MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124824",
+					"name": "MEK"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124823",
+					"name": "MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124824",
+					"name": "MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124837",
+					"name": "MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124838",
+					"name": "MEK"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124819",
+				"name": "BiochemicalReaction Of RAF1 To RAF1",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124813",
+					"name": "Control_Activation 36"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124820",
+					"name": "RAF1"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124821",
+					"name": "RAF1"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124820",
+					"name": "RAF1"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124821",
+					"name": "RAF1"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124830",
+				"name": "BiochemicalReaction Of RAS To RAS",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124867",
+					"name": "Control_Activation 74"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124831",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124832",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124833",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124834",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124835",
+					"name": "RAS"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021010,
+					"title": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/11294822",
+					"crossReferences": [{
+						"id": 1449268853,
+						"resource": "PubMed",
+						"resourceId": "11294822",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+					}, {
+						"id": 1449268854,
+						"resource": "DOI",
+						"resourceId": "10.1210/edrv.22.2.0428",
+						"_url": "http://dx.doi.org/10.1210%2Fedrv.22.2.0428"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124831",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124832",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124833",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124834",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124835",
+					"name": "RAS"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124857",
+				"name": "BiochemicalReaction Of Transcription factors To Transcription factors",
+				"controls": [{
+					"objCls": "Control",
+					"id": "PA166124875",
+					"name": "Control_Activation 62"
+				}],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124858",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124859",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124860",
+					"name": "Transcription factors"
+				}],
+				"interactionClassification": "Biochemical Reaction",
+				"literature": [{
+					"id": 15021020,
+					"title": "Roles of the RAF/MEK/ERK and PI3K/PTEN/AKT pathways in malignant transformation and drug resistance.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/16854453",
+					"crossReferences": [{
+						"id": 1449268857,
+						"resource": "PubMed",
+						"resourceId": "16854453",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/16854453"
+					}, {
+						"id": 1449268858,
+						"resource": "DOI",
+						"resourceId": "10.1016/j.advenzreg.2006.01.004",
+						"_url": "http://dx.doi.org/10.1016%2Fj.advenzreg.2006.01.004"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124861",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124862",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124863",
+					"name": "Transcription factors"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124858",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124859",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124860",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124861",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124862",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124863",
+					"name": "Transcription factors"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Conversion",
+				"id": "PA166124842",
+				"name": "ComplexAssembly Of Growth Factors To Tyrosine kinase receptors",
+				"controls": [],
+				"crossReferences": [],
+				"direction": "Reversible",
+				"inputs": [{
+					"objCls": "Entity",
+					"id": "PA166124843",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124844",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124845",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124846",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124847",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124848",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124849",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124850",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124851",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124852",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124853",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124854",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124855",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124856",
+					"name": "Growth Factors"
+				}],
+				"interactionClassification": "Complex Assembly",
+				"literature": [{
+					"id": 15021010,
+					"title": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/11294822",
+					"crossReferences": [{
+						"id": 1449268853,
+						"resource": "PubMed",
+						"resourceId": "11294822",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+					}, {
+						"id": 1449268854,
+						"resource": "DOI",
+						"resourceId": "10.1210/edrv.22.2.0428",
+						"_url": "http://dx.doi.org/10.1210%2Fedrv.22.2.0428"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"outputs": [{
+					"objCls": "Entity",
+					"id": "PA166124793",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124794",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124795",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124796",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124797",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124798",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124799",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124800",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124801",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124802",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124803",
+					"name": "Tyrosine kinase receptors"
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124843",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124844",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124845",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124846",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124847",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124848",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124849",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124850",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124851",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124852",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124853",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124854",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124855",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124856",
+					"name": "Growth Factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124793",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124794",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124795",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124796",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124797",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124798",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124799",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124800",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124801",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124802",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124803",
+					"name": "Tyrosine kinase receptors"
+				}],
+				"spontaneous": false
+			}, {
+				"objCls": "Control",
+				"id": "PA166124872",
+				"name": "Control_Activation 31",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124839",
+					"name": "BiochemicalReaction Of ARAF To ARAF"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124839",
+					"name": "BiochemicalReaction Of ARAF To ARAF"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124813",
+				"name": "Control_Activation 36",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124819",
+					"name": "BiochemicalReaction Of RAF1 To RAF1"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124819",
+					"name": "BiochemicalReaction Of RAF1 To RAF1"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124868",
+				"name": "Control_Activation 41",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124864",
+					"name": "BiochemicalReaction Of BRAF To BRAF"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124814",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124815",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124816",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124817",
+					"name": "RAS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124818",
+					"name": "RAS"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124864",
+					"name": "BiochemicalReaction Of BRAF To BRAF"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124822",
+				"name": "Control_Activation 48",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124823",
+					"name": "MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124824",
+					"name": "MEK"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021010,
+					"title": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/11294822",
+					"crossReferences": [{
+						"id": 1449268853,
+						"resource": "PubMed",
+						"resourceId": "11294822",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+					}, {
+						"id": 1449268854,
+						"resource": "DOI",
+						"resourceId": "10.1210/edrv.22.2.0428",
+						"_url": "http://dx.doi.org/10.1210%2Fedrv.22.2.0428"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124825",
+					"name": "BiochemicalReaction Of ERK To ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124823",
+					"name": "MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124824",
+					"name": "MEK"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124825",
+					"name": "BiochemicalReaction Of ERK To ERK"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124871",
+				"name": "Control_Activation 53",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124841",
+					"name": "ARAF"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Entity",
+					"id": "PA166124841",
+					"name": "ARAF"
+				}, {
+					"objCls": "Conversion",
+					"id": "PA166124836",
+					"name": "BiochemicalReaction Of MEK To MEK"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124836",
+					"name": "BiochemicalReaction Of MEK To MEK"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124877",
+				"name": "Control_Activation 55",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124821",
+					"name": "RAF1"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124836",
+					"name": "BiochemicalReaction Of MEK To MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124821",
+					"name": "RAF1"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124836",
+					"name": "BiochemicalReaction Of MEK To MEK"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124876",
+				"name": "Control_Activation 57",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124866",
+					"name": "BRAF"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021000,
+					"title": "Vemurafenib and BRAF inhibition: a new class of treatment for metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22083257",
+					"crossReferences": [{
+						"id": 1449268851,
+						"resource": "PubMed",
+						"resourceId": "22083257",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22083257"
+					}, {
+						"id": 1449268852,
+						"resource": "DOI",
+						"resourceId": "10.1158/1078-0432.CCR-11-2197",
+						"_url": "http://dx.doi.org/10.1158%2F1078-0432.CCR-11-2197"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124836",
+					"name": "BiochemicalReaction Of MEK To MEK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124866",
+					"name": "BRAF"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124836",
+					"name": "BiochemicalReaction Of MEK To MEK"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124875",
+				"name": "Control_Activation 62",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124828",
+					"name": "ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124829",
+					"name": "ERK"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021020,
+					"title": "Roles of the RAF/MEK/ERK and PI3K/PTEN/AKT pathways in malignant transformation and drug resistance.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/16854453",
+					"crossReferences": [{
+						"id": 1449268857,
+						"resource": "PubMed",
+						"resourceId": "16854453",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/16854453"
+					}, {
+						"id": 1449268858,
+						"resource": "DOI",
+						"resourceId": "10.1016/j.advenzreg.2006.01.004",
+						"_url": "http://dx.doi.org/10.1016%2Fj.advenzreg.2006.01.004"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124857",
+					"name": "BiochemicalReaction Of Transcription factors To Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124828",
+					"name": "ERK"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124829",
+					"name": "ERK"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124857",
+					"name": "BiochemicalReaction Of Transcription factors To Transcription factors"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124873",
+				"name": "Control_Activation 64",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124861",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124862",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124863",
+					"name": "Transcription factors"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [],
+				"participants": [{
+					"objCls": "BlackBoxEvent",
+					"id": "PA166124874",
+					"name": "Black Box: Cell migration, invasion, proliferation, metastases"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124861",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124862",
+					"name": "Transcription factors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124863",
+					"name": "Transcription factors"
+				}],
+				"targets": [{
+					"objCls": "BlackBoxEvent",
+					"id": "PA166124874",
+					"name": "Black Box: Cell migration, invasion, proliferation, metastases"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124792",
+				"name": "Control_Activation 69",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124793",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124794",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124795",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124796",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124797",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124798",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124799",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124800",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124801",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124802",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124803",
+					"name": "Tyrosine kinase receptors"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021010,
+					"title": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/11294822",
+					"crossReferences": [{
+						"id": 1449268853,
+						"resource": "PubMed",
+						"resourceId": "11294822",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+					}, {
+						"id": 1449268854,
+						"resource": "DOI",
+						"resourceId": "10.1210/edrv.22.2.0428",
+						"_url": "http://dx.doi.org/10.1210%2Fedrv.22.2.0428"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124804",
+					"name": "BiochemicalReaction Of GRB2-SOS To GRB2-SOS"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124793",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124794",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124795",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124796",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124797",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124798",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124799",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124800",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124801",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124802",
+					"name": "Tyrosine kinase receptors"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124803",
+					"name": "Tyrosine kinase receptors"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124804",
+					"name": "BiochemicalReaction Of GRB2-SOS To GRB2-SOS"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124867",
+				"name": "Control_Activation 74",
+				"controllers": [{
+					"objCls": "ComplexEntity",
+					"id": "PA166124809",
+					"name": "GRB2-SOS"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Activation",
+				"literature": [{
+					"id": 15021010,
+					"title": "Mitogen-activated protein (MAP) kinase pathways: regulation and physiological functions.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/11294822",
+					"crossReferences": [{
+						"id": 1449268853,
+						"resource": "PubMed",
+						"resourceId": "11294822",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/11294822"
+					}, {
+						"id": 1449268854,
+						"resource": "DOI",
+						"resourceId": "10.1210/edrv.22.2.0428",
+						"_url": "http://dx.doi.org/10.1210%2Fedrv.22.2.0428"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124830",
+					"name": "BiochemicalReaction Of RAS To RAS"
+				}, {
+					"objCls": "ComplexEntity",
+					"id": "PA166124809",
+					"name": "GRB2-SOS"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124830",
+					"name": "BiochemicalReaction Of RAS To RAS"
+				}]
+			}, {
+				"objCls": "Control",
+				"id": "PA166124869",
+				"name": "Control_Inhibition 43",
+				"controllers": [{
+					"objCls": "Entity",
+					"id": "PA166124870",
+					"name": "vemurafenib"
+				}],
+				"crossReferences": [],
+				"interactionClassification": "Inhibition",
+				"literature": [{
+					"id": 15021017,
+					"title": "Vemurafenib (PLX4032): an orally available inhibitor of mutated BRAF for the treatment of metastatic melanoma.",
+					"_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/22028422",
+					"crossReferences": [{
+						"id": 1449268855,
+						"resource": "PubMed",
+						"resourceId": "22028422",
+						"_url": "https://www.ncbi.nlm.nih.gov/pubmed/22028422"
+					}, {
+						"id": 1449268856,
+						"resource": "DOI",
+						"resourceId": "10.1345/aph.1Q363",
+						"_url": "http://dx.doi.org/10.1345%2Faph.1Q363"
+					}],
+					"objCls": "Literature",
+					"terms": []
+				}],
+				"participants": [{
+					"objCls": "Conversion",
+					"id": "PA166124864",
+					"name": "BiochemicalReaction Of BRAF To BRAF"
+				}, {
+					"objCls": "Entity",
+					"id": "PA166124870",
+					"name": "vemurafenib"
+				}],
+				"targets": [{
+					"objCls": "Conversion",
+					"id": "PA166124864",
+					"name": "BiochemicalReaction Of BRAF To BRAF"
+				}]
+			}],
+			"pdfLink": "https://api.pharmgkb.org/v1/download/file/pathway/PA165980050.pdf?versionId=xowYG3WuyEu8A1mp5hqxIba_Nz17ZGWC",
+			"pediatric": false,
+			"pharmacodynamic": true,
+			"pharmacokinetic": false,
+			"relatedChemicals": [{
+				"objCls": "Chemical",
+				"id": "PA166114911",
+				"name": "dabrafenib"
+			}],
+			"relatedDiseases": [{
+				"objCls": "Disease",
+				"id": "PA444903",
+				"name": "Melanoma"
+			}, {
+				"objCls": "Disease",
+				"id": "PA445062",
+				"name": "Neoplasms"
+			}],
+			"relatedGenes": [],
+			"relatedPathways": [{
+				"objCls": "Pathway",
+				"id": "PA162356267",
+				"name": "EGFR Inhibitor Pathway, Pharmacodynamics"
+			}, {
+				"objCls": "Pathway",
+				"id": "PA2032",
+				"name": "VEGF Signaling Pathway"
+			}],
+			"summary": {
+				"id": 1449751277,
+				"html": "<p>Simplified diagram of mechanism of action of vemurafenib and downstream signaling effects.</p>\n"
+			},
+			"terms": [{
+				"id": 981478731,
+				"resource": "Pathway Categories",
+				"term": "Anticancer agents",
+				"termId": "pathwayCategories:981478731"
+			}],
+			"thumbnailLink": "https://s3.pgkb.org/pathway/PA165980050-100px.png?versionId=SuBUvUTWaJYZ8Qakhn0OdSKyz7C.I0bA"
+		},
+		"relatedPathways": [{
+			"id": "PA162356267",
+			"objCls": "Pathway",
+			"categories": ["Anticancer agents"],
+			"connections": ["gene/PA36184", "gene/PA36183", "chemical/PA10040", "gene/PA337", "literature/15003643", "gene/PA31600", "gene/PA338", "gene/PA25442", "gene/PA296", "gene/PA30196", "gene/PA30592", "gene/PA27749", "entity/PA166106453", "chemical/PA162373091", "gene/PA33759", "literature/15003655", "gene/PA30006", "gene/PA27513", "gene/PA28962", "literature/8963245", "gene/PA36186", "gene/PA36185", "entity/PA166106454", "literature/15017239", "literature/15003591", "literature/15003593", "gene/PA30616", "gene/PA35746", "chemical/PA131301952", "gene/PA29988", "gene/PA27844", "gene/PA27847", "gene/PA27846", "literature/15003625", "literature/8766754", "gene/PA134913435", "chemical/PA152241907", "literature/8844951", "gene/PA30622", "literature/15003634", "gene/PA30584", "gene/PA134971076", "gene/PA27856", "gene/PA134992438", "gene/PA283", "gene/PA284", "gene/PA36042", "entity/PA166106363", "entity/PA166106362", "gene/PA33309", "gene/PA31768", "gene/PA33308", "gene/PA29444", "literature/15003567", "literature/9415497", "gene/PA27664", "literature/15003686", "chemical/PA134687924", "literature/15003605", "entity/PA166106370", "literature/15003580", "gene/PA31776", "gene/PA31778", "literature/15003612", "gene/PA31777", "gene/PA33312", "gene/PA24684", "gene/PA33311", "gene/PA24685", "gene/PA33314", "gene/PA24686", "gene/PA33313", "gene/PA33310", "gene/PA36024", "gene/PA33392", "gene/PA33393", "gene/PA36480", "literature/15003550", "gene/PA30932", "gene/PA28212", "gene/PA33766", "literature/15003664", "gene/PA33761", "gene/PA24933", "entity/PA166106354", "entity/PA166106353", "gene/PA91", "gene/PA90", "entity/PA166106351", "gene/PA93", "gene/PA92", "literature/15098961", "gene/PA7360", "literature/15007516", "gene/PA26048", "gene/PA31353", "literature/15003672", "gene/PA248", "gene/PA26049", "gene/PA34861", "gene/PA34183"],
+			"connectivity": 101,
+			"description": "Model non-tissue specific cancer cell displaying genes that may be involved in the treatment using epidermal growth factor receptor specific tyrosine kinase inhibitors or monoclonal antibodies.",
+			"hasData": true,
+			"name": "EGFR Inhibitor Pathway, Pharmacodynamics",
+			"numClinicalAnnotations": 0,
+			"numCpicAnnotations": 0,
+			"numGuidelineAnnotations": 0,
+			"numHaplotypes": 0,
+			"numLabelAnnotations": 0,
+			"numPediatricClinicalAnnotations": 0,
+			"numPediatricCpicGuidelineAnnotations": 0,
+			"numPediatricGuidelineAnnotations": 0,
+			"numPediatricLabelAnnotations": 0,
+			"numPediatricVariantAnnotations": 0,
+			"numTopClinicalAnnotations": 0,
+			"numTopPediatricClinicalAnnotations": 0,
+			"numVariantAnnotations": 0,
+			"relatedEntities": [{
+				"id": "PA152241907",
+				"name": "lapatinib",
+				"type": "Chemical",
+				"url": "/chemical/PA152241907"
+			}, {
+				"id": "PA31776",
+				"name": "NRG1",
+				"synonyms": ["neuregulin 1"],
+				"type": "Gene",
+				"url": "/gene/PA31776"
+			}, {
+				"id": "PA30592",
+				"name": "MAP3K1",
+				"synonyms": ["mitogen-activated protein kinase kinase kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA30592"
+			}, {
+				"id": "PA30196",
+				"name": "KRAS",
+				"synonyms": ["KRAS proto-oncogene, GTPase"],
+				"type": "Gene",
+				"url": "/gene/PA30196"
+			}, {
+				"id": "PA33312",
+				"name": "PIK3R1",
+				"synonyms": ["phosphoinositide-3-kinase regulatory subunit 1"],
+				"type": "Gene",
+				"url": "/gene/PA33312"
+			}, {
+				"id": "PA27844",
+				"name": "ERBB2",
+				"synonyms": ["erb-b2 receptor tyrosine kinase 2"],
+				"type": "Gene",
+				"url": "/gene/PA27844"
+			}, {
+				"id": "PA31777",
+				"name": "NRG2",
+				"synonyms": ["neuregulin 2"],
+				"type": "Gene",
+				"url": "/gene/PA31777"
+			}, {
+				"id": "PA162373091",
+				"name": "panitumumab",
+				"type": "Chemical",
+				"url": "/chemical/PA162373091"
+			}, {
+				"id": "PA131301952",
+				"name": "gefitinib",
+				"type": "Chemical",
+				"url": "/chemical/PA131301952"
+			}, {
+				"id": "PA28962",
+				"name": "GRB2",
+				"synonyms": ["growth factor receptor bound protein 2"],
+				"type": "Gene",
+				"url": "/gene/PA28962"
+			}, {
+				"id": "PA24685",
+				"name": "AKT2",
+				"synonyms": ["AKT serine/threonine kinase 2"],
+				"type": "Gene",
+				"url": "/gene/PA24685"
+			}, {
+				"id": "PA134913435",
+				"name": "SHC3",
+				"synonyms": ["SHC adaptor protein 3"],
+				"type": "Gene",
+				"url": "/gene/PA134913435"
+			}, {
+				"id": "PA134992438",
+				"name": "CAMK1D",
+				"synonyms": ["calcium/calmodulin dependent protein kinase ID"],
+				"type": "Gene",
+				"url": "/gene/PA134992438"
+			}, {
+				"id": "PA248",
+				"name": "NFKB1",
+				"synonyms": ["nuclear factor kappa B subunit 1"],
+				"type": "Gene",
+				"url": "/gene/PA248"
+			}, {
+				"id": "PA2032",
+				"name": "VEGF Signaling Pathway",
+				"type": "Pathway",
+				"url": "/pathway/PA2032"
+			}, {
+				"id": "PA27513",
+				"name": "HBEGF",
+				"synonyms": ["heparin binding EGF like growth factor"],
+				"type": "Gene",
+				"url": "/gene/PA27513"
+			}, {
+				"id": "PA36042",
+				"name": "SP1",
+				"synonyms": ["Sp1 transcription factor"],
+				"type": "Gene",
+				"url": "/gene/PA36042"
+			}, {
+				"id": "PA33309",
+				"name": "PIK3CB",
+				"synonyms": ["phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta"],
+				"type": "Gene",
+				"url": "/gene/PA33309"
+			}, {
+				"id": "PA27664",
+				"name": "EGF",
+				"synonyms": ["epidermal growth factor"],
+				"type": "Gene",
+				"url": "/gene/PA27664"
+			}, {
+				"id": "PA35746",
+				"name": "SHC1",
+				"synonyms": ["SHC adaptor protein 1"],
+				"type": "Gene",
+				"url": "/gene/PA35746"
+			}, {
+				"id": "PA446108",
+				"name": "Colorectal Neoplasms",
+				"type": "Disease",
+				"url": "/disease/PA446108"
+			}, {
+				"id": "PA29988",
+				"name": "JAK1",
+				"synonyms": ["Janus kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA29988"
+			}, {
+				"id": "PA27846",
+				"name": "ERBB3",
+				"synonyms": ["erb-b2 receptor tyrosine kinase 3"],
+				"type": "Gene",
+				"url": "/gene/PA27846"
+			}, {
+				"id": "PA34861",
+				"name": "RRAS",
+				"synonyms": ["RAS related"],
+				"type": "Gene",
+				"url": "/gene/PA34861"
+			}, {
+				"id": "PA31600",
+				"name": "NFKB2",
+				"synonyms": ["nuclear factor kappa B subunit 2"],
+				"type": "Gene",
+				"url": "/gene/PA31600"
+			}, {
+				"id": "PA29444",
+				"name": "HRAS",
+				"synonyms": ["HRas proto-oncogene, GTPase"],
+				"type": "Gene",
+				"url": "/gene/PA29444"
+			}, {
+				"id": "PA36184",
+				"name": "STAT2",
+				"synonyms": ["signal transducer and activator of transcription 2"],
+				"type": "Gene",
+				"url": "/gene/PA36184"
+			}, {
+				"id": "PA36185",
+				"name": "STAT4",
+				"synonyms": ["signal transducer and activator of transcription 4"],
+				"type": "Gene",
+				"url": "/gene/PA36185"
+			}, {
+				"id": "PA33313",
+				"name": "PIK3R2",
+				"synonyms": ["phosphoinositide-3-kinase regulatory subunit 2"],
+				"type": "Gene",
+				"url": "/gene/PA33313"
+			}, {
+				"id": "PA10040",
+				"name": "cetuximab",
+				"type": "Chemical",
+				"url": "/chemical/PA10040"
+			}, {
+				"id": "PA31353",
+				"name": "MYC",
+				"synonyms": ["MYC proto-oncogene, bHLH transcription factor"],
+				"type": "Gene",
+				"url": "/gene/PA31353"
+			}, {
+				"id": "PA27847",
+				"name": "ERBB4",
+				"synonyms": ["erb-b2 receptor tyrosine kinase 4"],
+				"type": "Gene",
+				"url": "/gene/PA27847"
+			}, {
+				"id": "PA93",
+				"name": "CAMK2G",
+				"synonyms": ["calcium/calmodulin dependent protein kinase II gamma"],
+				"type": "Gene",
+				"url": "/gene/PA93"
+			}, {
+				"id": "PA337",
+				"name": "STAT3",
+				"synonyms": ["signal transducer and activator of transcription 3"],
+				"type": "Gene",
+				"url": "/gene/PA337"
+			}, {
+				"id": "PA154426903",
+				"name": "Erlotinib Pathway, Pharmacokinetics",
+				"type": "Pathway",
+				"url": "/pathway/PA154426903"
+			}, {
+				"id": "PA36480",
+				"name": "TGFA",
+				"synonyms": ["transforming growth factor alpha"],
+				"type": "Gene",
+				"url": "/gene/PA36480"
+			}, {
+				"id": "PA445062",
+				"name": "Neoplasms",
+				"type": "Disease",
+				"url": "/disease/PA445062"
+			}, {
+				"id": "PA24684",
+				"name": "AKT1",
+				"synonyms": ["AKT serine/threonine kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA24684"
+			}, {
+				"id": "PA30006",
+				"name": "JUN",
+				"synonyms": ["Jun proto-oncogene, AP-1 transcription factor subunit"],
+				"type": "Gene",
+				"url": "/gene/PA30006"
+			}, {
+				"id": "PA33310",
+				"name": "PIK3CD",
+				"synonyms": ["phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta"],
+				"type": "Gene",
+				"url": "/gene/PA33310"
+			}, {
+				"id": "PA33766",
+				"name": "PRKCG",
+				"synonyms": ["protein kinase C gamma"],
+				"type": "Gene",
+				"url": "/gene/PA33766"
+			}, {
+				"id": "PA33308",
+				"name": "PIK3CA",
+				"synonyms": ["phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"],
+				"type": "Gene",
+				"url": "/gene/PA33308"
+			}, {
+				"id": "PA33311",
+				"name": "PIK3CG",
+				"synonyms": ["phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma"],
+				"type": "Gene",
+				"url": "/gene/PA33311"
+			}, {
+				"id": "PA26049",
+				"name": "CAMK1G",
+				"synonyms": ["calcium/calmodulin dependent protein kinase IG"],
+				"type": "Gene",
+				"url": "/gene/PA26049"
+			}, {
+				"id": "PA30622",
+				"name": "MAPK3",
+				"synonyms": ["mitogen-activated protein kinase 3"],
+				"type": "Gene",
+				"url": "/gene/PA30622"
+			}, {
+				"id": "PA24933",
+				"name": "AREG",
+				"synonyms": ["amphiregulin"],
+				"type": "Gene",
+				"url": "/gene/PA24933"
+			}, {
+				"id": "PA27749",
+				"name": "ELK1",
+				"synonyms": ["ETS transcription factor ELK1"],
+				"type": "Gene",
+				"url": "/gene/PA27749"
+			}, {
+				"id": "PA296",
+				"name": "RELA",
+				"synonyms": ["RELA proto-oncogene, NF-kB subunit"],
+				"type": "Gene",
+				"url": "/gene/PA296"
+			}, {
+				"id": "PA90",
+				"name": "CAMK2A",
+				"synonyms": ["calcium/calmodulin dependent protein kinase II alpha"],
+				"type": "Gene",
+				"url": "/gene/PA90"
+			}, {
+				"id": "PA33759",
+				"name": "PRKCA",
+				"synonyms": ["protein kinase C alpha"],
+				"type": "Gene",
+				"url": "/gene/PA33759"
+			}, {
+				"id": "PA26048",
+				"name": "CAMK1",
+				"synonyms": ["calcium/calmodulin dependent protein kinase I"],
+				"type": "Gene",
+				"url": "/gene/PA26048"
+			}, {
+				"id": "PA30616",
+				"name": "MAPK1",
+				"synonyms": ["mitogen-activated protein kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA30616"
+			}, {
+				"id": "PA36183",
+				"name": "STAT1",
+				"synonyms": ["signal transducer and activator of transcription 1"],
+				"type": "Gene",
+				"url": "/gene/PA36183"
+			}, {
+				"id": "PA24686",
+				"name": "AKT3",
+				"synonyms": ["AKT serine/threonine kinase 3"],
+				"type": "Gene",
+				"url": "/gene/PA24686"
+			}, {
+				"id": "PA31778",
+				"name": "NRG3",
+				"synonyms": ["neuregulin 3"],
+				"type": "Gene",
+				"url": "/gene/PA31778"
+			}, {
+				"id": "PA30584",
+				"name": "MAP2K1",
+				"synonyms": ["mitogen-activated protein kinase kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA30584"
+			}, {
+				"id": "PA283",
+				"name": "MAPK8",
+				"synonyms": ["mitogen-activated protein kinase 8"],
+				"type": "Gene",
+				"url": "/gene/PA283"
+			}, {
+				"id": "PA36024",
+				"name": "SOS1",
+				"synonyms": ["SOS Ras/Rac guanine nucleotide exchange factor 1"],
+				"type": "Gene",
+				"url": "/gene/PA36024"
+			}, {
+				"id": "PA338",
+				"name": "STAT5A",
+				"synonyms": ["signal transducer and activator of transcription 5A"],
+				"type": "Gene",
+				"url": "/gene/PA338"
+			}, {
+				"id": "PA134971076",
+				"name": "SHC2",
+				"synonyms": ["SHC adaptor protein 2"],
+				"type": "Gene",
+				"url": "/gene/PA134971076"
+			}, {
+				"id": "PA91",
+				"name": "CAMK2B",
+				"synonyms": ["calcium/calmodulin dependent protein kinase II beta"],
+				"type": "Gene",
+				"url": "/gene/PA91"
+			}, {
+				"id": "PA25442",
+				"name": "BTC",
+				"synonyms": ["betacellulin"],
+				"type": "Gene",
+				"url": "/gene/PA25442"
+			}, {
+				"id": "PA284",
+				"name": "MAP2K7",
+				"synonyms": ["mitogen-activated protein kinase kinase 7"],
+				"type": "Gene",
+				"url": "/gene/PA284"
+			}, {
+				"id": "PA36186",
+				"name": "STAT5B",
+				"synonyms": ["signal transducer and activator of transcription 5B"],
+				"type": "Gene",
+				"url": "/gene/PA36186"
+			}, {
+				"id": "PA33314",
+				"name": "PIK3R3",
+				"synonyms": ["phosphoinositide-3-kinase regulatory subunit 3"],
+				"type": "Gene",
+				"url": "/gene/PA33314"
+			}, {
+				"id": "PA92",
+				"name": "CAMK2D",
+				"synonyms": ["calcium/calmodulin dependent protein kinase II delta"],
+				"type": "Gene",
+				"url": "/gene/PA92"
+			}, {
+				"id": "PA33392",
+				"name": "PLCG1",
+				"synonyms": ["phospholipase C gamma 1"],
+				"type": "Gene",
+				"url": "/gene/PA33392"
+			}, {
+				"id": "PA152325160",
+				"name": "Gefitinib Pathway, Pharmacokinetics",
+				"type": "Pathway",
+				"url": "/pathway/PA152325160"
+			}, {
+				"id": "PA31768",
+				"name": "NRAS",
+				"synonyms": ["NRAS proto-oncogene, GTPase"],
+				"type": "Gene",
+				"url": "/gene/PA31768"
+			}, {
+				"id": "PA28212",
+				"name": "FOS",
+				"synonyms": ["Fos proto-oncogene, AP-1 transcription factor subunit"],
+				"type": "Gene",
+				"url": "/gene/PA28212"
+			}, {
+				"id": "PA7360",
+				"name": "EGFR",
+				"synonyms": ["epidermal growth factor receptor"],
+				"type": "Gene",
+				"url": "/gene/PA7360"
+			}, {
+				"id": "PA33761",
+				"name": "PRKCB",
+				"synonyms": ["protein kinase C beta"],
+				"type": "Gene",
+				"url": "/gene/PA33761"
+			}, {
+				"id": "PA134687924",
+				"name": "erlotinib",
+				"type": "Chemical",
+				"url": "/chemical/PA134687924"
+			}, {
+				"id": "PA27856",
+				"name": "EREG",
+				"synonyms": ["epiregulin"],
+				"type": "Gene",
+				"url": "/gene/PA27856"
+			}, {
+				"id": "PA30932",
+				"name": "MRAS",
+				"synonyms": ["muscle RAS oncogene homolog"],
+				"type": "Gene",
+				"url": "/gene/PA30932"
+			}, {
+				"id": "PA34183",
+				"name": "RAF1",
+				"synonyms": ["Raf-1 proto-oncogene, serine/threonine kinase"],
+				"type": "Gene",
+				"url": "/gene/PA34183"
+			}, {
+				"id": "PA33393",
+				"name": "PLCG2",
+				"synonyms": ["phospholipase C gamma 2"],
+				"type": "Gene",
+				"url": "/gene/PA33393"
+			}, {
+				"id": "PA165980050",
+				"name": "Vemurafenib Pathway, Pharmacodynamics",
+				"type": "Pathway",
+				"url": "/pathway/PA165980050"
+			}],
+			"synonyms": ["Antineoplastic And Immunomodulating Agents", "ATC:L", "L"],
+			"thumbnailLink": "https://s3.pgkb.org/pathway/PA162356267-100px.png?versionId=Kf89nSU6Xv0PwmLpSVGxepeCUxJog2TN",
+			"url": "/pathway/PA162356267"
+		}, {
+			"id": "PA2032",
+			"objCls": "Pathway",
+			"categories": ["Anticancer agents"],
+			"connections": ["literature/8564531", "gene/PA134941638", "literature/15073593", "literature/10542985", "literature/9392638", "literature/10445062", "gene/PA30630", "gene/PA37304", "gene/PA30590", "gene/PA37303", "gene/PA30591", "gene/PA37302", "gene/PA30196", "chemical/PA130232992", "gene/PA33759", "literature/15098145", "literature/9528008", "literature/15073582", "literature/9393618", "gene/PA30086", "literature/15096889", "literature/8963245", "gene/PA26946", "literature/15094224", "chemical/PA7000", "gene/PA30617", "gene/PA30618", "gene/PA30619", "gene/PA30616", "gene/PA31783", "literature/8682313", "chemical/PA162372840", "literature/8766754", "literature/15096974", "literature/15014750", "gene/PA30624", "literature/8844951", "gene/PA30625", "gene/PA26880", "gene/PA30587", "gene/PA30620", "gene/PA30588", "gene/PA30621", "gene/PA30589", "gene/PA30622", "entity/PA166118374", "gene/PA30623", "entity/PA166118375", "gene/PA30584", "gene/PA33293", "gene/PA283", "gene/PA284", "chemical/PA166118341", "chemical/PA166118340", "literature/9579880", "complexEntity/PA166118485", "literature/8844869", "chemical/PA166118342", "literature/8841239", "literature/8844980", "gene/PA31768", "gene/PA29444", "gene/PA33305", "gene/PA33304", "literature/15094251", "literature/9415497", "entity/PA166118462", "gene/PA28115", "literature/8760393", "literature/15073559", "gene/PA254", "pathway/PA166163407", "literature/15098335", "literature/9392674", "literature/12367113", "literature/13915500", "gene/PA28131", "gene/PA28132", "gene/PA28130", "chemical/PA164924491", "chemical/PA164924492", "literature/9391917", "gene/PA28128", "gene/PA24684", "gene/PA28129", "gene/PA24685", "chemical/PA164924493", "literature/8839948", "gene/PA24686", "gene/PA28127", "literature/15030495", "gene/PA134972108", "complexEntity/PA166118489", "gene/PA33392", "gene/PA33393", "literature/9236437", "gene/PA28180", "literature/15098161", "gene/PA33767", "gene/PA33766", "literature/15073572", "gene/PA33768", "gene/PA33763", "literature/8766790", "gene/PA33765", "literature/15098154", "literature/9565541", "gene/PA33761", "literature/10229541", "literature/8814966", "entity/PA166118457", "entity/PA166118456", "gene/PA36528", "pathway/PA166178361", "gene/PA33773", "gene/PA33775", "literature/15098164", "literature/8844908", "gene/PA34183"],
+			"connectivity": 119,
+			"description": "Model endothelial cell displaying genes of the VEGF signalling pathway and the sites at which bevacizumab, sorafenib, sunitinib, brivanib and cilengitide are known to act.",
+			"hasData": true,
+			"name": "VEGF Signaling Pathway",
+			"numClinicalAnnotations": 0,
+			"numCpicAnnotations": 0,
+			"numGuidelineAnnotations": 0,
+			"numHaplotypes": 0,
+			"numLabelAnnotations": 0,
+			"numPediatricClinicalAnnotations": 0,
+			"numPediatricCpicGuidelineAnnotations": 0,
+			"numPediatricGuidelineAnnotations": 0,
+			"numPediatricLabelAnnotations": 0,
+			"numPediatricVariantAnnotations": 0,
+			"numTopClinicalAnnotations": 0,
+			"numTopPediatricClinicalAnnotations": 0,
+			"numVariantAnnotations": 0,
+			"properties": {
+				"literature": {
+					"crossReferences": [{
+						"_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086058",
+						"id": 1449250002,
+						"resource": "PubMed Central",
+						"resourceId": "PMC3086058"
+					}],
+					"id": 7968778,
+					"objCls": "Literature",
+					"title": "Vascular endothelial growth factor pathway."
+				}
+			},
+			"relatedEntities": [{
+				"id": "PA30630",
+				"name": "MAPK9",
+				"synonyms": ["mitogen-activated protein kinase 9"],
+				"type": "Gene",
+				"url": "/gene/PA30630"
+			}, {
+				"id": "PA446108",
+				"name": "Colorectal Neoplasms",
+				"type": "Disease",
+				"url": "/disease/PA446108"
+			}, {
+				"id": "PA283",
+				"name": "MAPK8",
+				"synonyms": ["mitogen-activated protein kinase 8"],
+				"type": "Gene",
+				"url": "/gene/PA283"
+			}, {
+				"id": "PA28128",
+				"name": "FGFR2",
+				"synonyms": ["fibroblast growth factor receptor 2"],
+				"type": "Gene",
+				"url": "/gene/PA28128"
+			}, {
+				"id": "PA166118341",
+				"name": "vandetanib",
+				"type": "Chemical",
+				"url": "/chemical/PA166118341"
+			}, {
+				"id": "PA164924492",
+				"name": "brivanib",
+				"type": "Chemical",
+				"url": "/chemical/PA164924492"
+			}, {
+				"id": "PA2001",
+				"name": "Irinotecan Pathway, Pharmacokinetics",
+				"type": "Pathway",
+				"url": "/pathway/PA2001"
+			}, {
+				"id": "PA26946",
+				"name": "CSK",
+				"synonyms": ["C-terminal Src kinase"],
+				"type": "Gene",
+				"url": "/gene/PA26946"
+			}, {
+				"id": "PA130232992",
+				"name": "bevacizumab",
+				"type": "Chemical",
+				"url": "/chemical/PA130232992"
+			}, {
+				"id": "PA28180",
+				"name": "FLT1",
+				"synonyms": ["fms related tyrosine kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA28180"
+			}, {
+				"id": "PA254",
+				"name": "NOS3",
+				"synonyms": ["nitric oxide synthase 3"],
+				"type": "Gene",
+				"url": "/gene/PA254"
+			}, {
+				"id": "PA24686",
+				"name": "AKT3",
+				"synonyms": ["AKT serine/threonine kinase 3"],
+				"type": "Gene",
+				"url": "/gene/PA24686"
+			}, {
+				"id": "PA164924493",
+				"name": "axitinib",
+				"type": "Chemical",
+				"url": "/chemical/PA164924493"
+			}, {
+				"id": "PA33293",
+				"name": "PIGF",
+				"synonyms": ["phosphatidylinositol glycan anchor biosynthesis class F"],
+				"type": "Gene",
+				"url": "/gene/PA33293"
+			}, {
+				"id": "PA37303",
+				"name": "VEGFB",
+				"synonyms": ["vascular endothelial growth factor B"],
+				"type": "Gene",
+				"url": "/gene/PA37303"
+			}, {
+				"id": "PA28129",
+				"name": "FGFR3",
+				"synonyms": ["fibroblast growth factor receptor 3"],
+				"type": "Gene",
+				"url": "/gene/PA28129"
+			}, {
+				"id": "PA30624",
+				"name": "MAPK6",
+				"synonyms": ["mitogen-activated protein kinase 6"],
+				"type": "Gene",
+				"url": "/gene/PA30624"
+			}, {
+				"id": "PA30196",
+				"name": "KRAS",
+				"synonyms": ["KRAS proto-oncogene, GTPase"],
+				"type": "Gene",
+				"url": "/gene/PA30196"
+			}, {
+				"id": "PA134972108",
+				"name": "FGFR1OP2",
+				"synonyms": ["FGFR1 oncogene partner 2"],
+				"type": "Gene",
+				"url": "/gene/PA134972108"
+			}, {
+				"id": "PA205",
+				"name": "ITGB3",
+				"synonyms": ["integrin subunit beta 3"],
+				"type": "Gene",
+				"url": "/gene/PA205"
+			}, {
+				"id": "PA165959537",
+				"name": "Sorafenib Pharmacokinetics",
+				"type": "Pathway",
+				"url": "/pathway/PA165959537"
+			}, {
+				"id": "PA34183",
+				"name": "RAF1",
+				"synonyms": ["Raf-1 proto-oncogene, serine/threonine kinase"],
+				"type": "Gene",
+				"url": "/gene/PA34183"
+			}, {
+				"id": "PA28115",
+				"name": "FGF2",
+				"synonyms": ["fibroblast growth factor 2"],
+				"type": "Gene",
+				"url": "/gene/PA28115"
+			}, {
+				"id": "PA30086",
+				"name": "KDR",
+				"synonyms": ["kinase insert domain receptor"],
+				"type": "Gene",
+				"url": "/gene/PA30086"
+			}, {
+				"id": "PA31768",
+				"name": "NRAS",
+				"synonyms": ["NRAS proto-oncogene, GTPase"],
+				"type": "Gene",
+				"url": "/gene/PA31768"
+			}, {
+				"id": "PA444283",
+				"name": "Glioblastoma",
+				"type": "Disease",
+				"url": "/disease/PA444283"
+			}, {
+				"id": "PA284",
+				"name": "MAP2K7",
+				"synonyms": ["mitogen-activated protein kinase kinase 7"],
+				"type": "Gene",
+				"url": "/gene/PA284"
+			}, {
+				"id": "PA33304",
+				"name": "PIK3C2A",
+				"synonyms": ["phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha"],
+				"type": "Gene",
+				"url": "/gene/PA33304"
+			}, {
+				"id": "PA36528",
+				"name": "TIMP3",
+				"synonyms": ["TIMP metallopeptidase inhibitor 3"],
+				"type": "Gene",
+				"url": "/gene/PA36528"
+			}, {
+				"id": "PA33305",
+				"name": "PIK3C2B",
+				"synonyms": ["phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta"],
+				"type": "Gene",
+				"url": "/gene/PA33305"
+			}, {
+				"id": "7968778",
+				"name": "Vascular endothelial growth factor pathway.",
+				"type": "Literature",
+				"url": "/literature/7968778"
+			}, {
+				"id": "PA33761",
+				"name": "PRKCB",
+				"synonyms": ["protein kinase C beta"],
+				"type": "Gene",
+				"url": "/gene/PA33761"
+			}, {
+				"id": "PA37302",
+				"name": "VEGFA",
+				"synonyms": ["vascular endothelial growth factor A"],
+				"type": "Gene",
+				"url": "/gene/PA37302"
+			}, {
+				"id": "PA33775",
+				"name": "PRKCZ",
+				"synonyms": ["protein kinase C zeta"],
+				"type": "Gene",
+				"url": "/gene/PA33775"
+			}, {
+				"id": "PA33393",
+				"name": "PLCG2",
+				"synonyms": ["phospholipase C gamma 2"],
+				"type": "Gene",
+				"url": "/gene/PA33393"
+			}, {
+				"id": "PA443624",
+				"name": "Carcinoma, Renal Cell",
+				"type": "Disease",
+				"url": "/disease/PA443624"
+			}, {
+				"id": "PA30616",
+				"name": "MAPK1",
+				"synonyms": ["mitogen-activated protein kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA30616"
+			}, {
+				"id": "PA33767",
+				"name": "PRKCH",
+				"synonyms": ["protein kinase C eta"],
+				"type": "Gene",
+				"url": "/gene/PA33767"
+			}, {
+				"id": "PA29959",
+				"name": "ITGB5",
+				"synonyms": ["integrin subunit beta 5"],
+				"type": "Gene",
+				"url": "/gene/PA29959"
+			}, {
+				"id": "PA33768",
+				"name": "PRKCI",
+				"synonyms": ["protein kinase C iota"],
+				"type": "Gene",
+				"url": "/gene/PA33768"
+			}, {
+				"id": "PA30584",
+				"name": "MAP2K1",
+				"synonyms": ["mitogen-activated protein kinase kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA30584"
+			}, {
+				"id": "PA30622",
+				"name": "MAPK3",
+				"synonyms": ["mitogen-activated protein kinase 3"],
+				"type": "Gene",
+				"url": "/gene/PA30622"
+			}, {
+				"id": "PA33773",
+				"name": "PRKCQ",
+				"synonyms": ["protein kinase C theta"],
+				"type": "Gene",
+				"url": "/gene/PA33773"
+			}, {
+				"id": "PA28127",
+				"name": "FGFR1",
+				"synonyms": ["fibroblast growth factor receptor 1"],
+				"type": "Gene",
+				"url": "/gene/PA28127"
+			}, {
+				"id": "PA165959584",
+				"name": "Sorafenib Pharmacodynamics",
+				"type": "Pathway",
+				"url": "/pathway/PA165959584"
+			}, {
+				"id": "PA30621",
+				"name": "MAPK14",
+				"synonyms": ["mitogen-activated protein kinase 14"],
+				"type": "Gene",
+				"url": "/gene/PA30621"
+			}, {
+				"id": "PA443622",
+				"name": "Carcinoma, Non-Small-Cell Lung",
+				"type": "Disease",
+				"url": "/disease/PA443622"
+			}, {
+				"id": "PA31783",
+				"name": "NRP1",
+				"synonyms": ["neuropilin 1"],
+				"type": "Gene",
+				"url": "/gene/PA31783"
+			}, {
+				"id": "PA30618",
+				"name": "MAPK11",
+				"synonyms": ["mitogen-activated protein kinase 11"],
+				"type": "Gene",
+				"url": "/gene/PA30618"
+			}, {
+				"id": "PA162356267",
+				"name": "EGFR Inhibitor Pathway, Pharmacodynamics",
+				"type": "Pathway",
+				"url": "/pathway/PA162356267"
+			}, {
+				"id": "PA28130",
+				"name": "FGFR4",
+				"synonyms": ["fibroblast growth factor receptor 4"],
+				"type": "Gene",
+				"url": "/gene/PA28130"
+			}, {
+				"id": "PA445062",
+				"name": "Neoplasms",
+				"type": "Disease",
+				"url": "/disease/PA445062"
+			}, {
+				"id": "PA166163407",
+				"name": "Pazopanib Pathway, Pharmacokinetics",
+				"type": "Pathway",
+				"url": "/pathway/PA166163407"
+			}, {
+				"id": "PA134941638",
+				"name": "FGFR1OP",
+				"synonyms": ["FGFR1 oncogene partner"],
+				"type": "Gene",
+				"url": "/gene/PA134941638"
+			}, {
+				"id": "PA24685",
+				"name": "AKT2",
+				"synonyms": ["AKT serine/threonine kinase 2"],
+				"type": "Gene",
+				"url": "/gene/PA24685"
+			}, {
+				"id": "PA30617",
+				"name": "MAPK10",
+				"synonyms": ["mitogen-activated protein kinase 10"],
+				"type": "Gene",
+				"url": "/gene/PA30617"
+			}, {
+				"id": "PA443560",
+				"name": "Breast Neoplasms",
+				"type": "Disease",
+				"url": "/disease/PA443560"
+			}, {
+				"id": "PA164924491",
+				"name": "cilengitide",
+				"type": "Chemical",
+				"url": "/chemical/PA164924491"
+			}, {
+				"id": "PA30625",
+				"name": "MAPK7",
+				"synonyms": ["mitogen-activated protein kinase 7"],
+				"type": "Gene",
+				"url": "/gene/PA30625"
+			}, {
+				"id": "PA33763",
+				"name": "PRKCD",
+				"synonyms": ["protein kinase C delta"],
+				"type": "Gene",
+				"url": "/gene/PA33763"
+			}, {
+				"id": "PA166118342",
+				"name": "aflibercept",
+				"type": "Chemical",
+				"url": "/chemical/PA166118342"
+			}, {
+				"id": "PA33759",
+				"name": "PRKCA",
+				"synonyms": ["protein kinase C alpha"],
+				"type": "Gene",
+				"url": "/gene/PA33759"
+			}, {
+				"id": "PA162372840",
+				"name": "sunitinib",
+				"type": "Chemical",
+				"url": "/chemical/PA162372840"
+			}, {
+				"id": "PA26880",
+				"name": "CRK",
+				"synonyms": ["CRK proto-oncogene, adaptor protein"],
+				"type": "Gene",
+				"url": "/gene/PA26880"
+			}, {
+				"id": "PA30588",
+				"name": "MAP2K3",
+				"synonyms": ["mitogen-activated protein kinase kinase 3"],
+				"type": "Gene",
+				"url": "/gene/PA30588"
+			}, {
+				"id": "PA33765",
+				"name": "PRKCE",
+				"synonyms": ["protein kinase C epsilon"],
+				"type": "Gene",
+				"url": "/gene/PA33765"
+			}, {
+				"id": "PA30591",
+				"name": "MAP2K6",
+				"synonyms": ["mitogen-activated protein kinase kinase 6"],
+				"type": "Gene",
+				"url": "/gene/PA30591"
+			}, {
+				"id": "PA33392",
+				"name": "PLCG1",
+				"synonyms": ["phospholipase C gamma 1"],
+				"type": "Gene",
+				"url": "/gene/PA33392"
+			}, {
+				"id": "PA37304",
+				"name": "VEGFC",
+				"synonyms": ["vascular endothelial growth factor C"],
+				"type": "Gene",
+				"url": "/gene/PA37304"
+			}, {
+				"id": "PA30587",
+				"name": "MAP2K2",
+				"synonyms": ["mitogen-activated protein kinase kinase 2"],
+				"type": "Gene",
+				"url": "/gene/PA30587"
+			}, {
+				"id": "PA28131",
+				"name": "FGFR3P1",
+				"synonyms": ["fibroblast growth factor receptor 3 pseudogene 1"],
+				"type": "Gene",
+				"url": "/gene/PA28131"
+			}, {
+				"id": "PA7000",
+				"name": "sorafenib",
+				"type": "Chemical",
+				"url": "/chemical/PA7000"
+			}, {
+				"id": "PA30590",
+				"name": "MAP2K5",
+				"synonyms": ["mitogen-activated protein kinase kinase 5"],
+				"type": "Gene",
+				"url": "/gene/PA30590"
+			}, {
+				"id": "PA30623",
+				"name": "MAPK4",
+				"synonyms": ["mitogen-activated protein kinase 4"],
+				"type": "Gene",
+				"url": "/gene/PA30623"
+			}, {
+				"id": "PA30589",
+				"name": "MAP2K4",
+				"synonyms": ["mitogen-activated protein kinase kinase 4"],
+				"type": "Gene",
+				"url": "/gene/PA30589"
+			}, {
+				"id": "PA166118340",
+				"name": "motesanib",
+				"type": "Chemical",
+				"url": "/chemical/PA166118340"
+			}, {
+				"id": "PA37336",
+				"name": "ITGAV",
+				"synonyms": ["integrin subunit alpha V"],
+				"type": "Gene",
+				"url": "/gene/PA37336"
+			}, {
+				"id": "PA28132",
+				"name": "FGFRL1",
+				"synonyms": ["fibroblast growth factor receptor like 1"],
+				"type": "Gene",
+				"url": "/gene/PA28132"
+			}, {
+				"id": "PA30620",
+				"name": "MAPK13",
+				"synonyms": ["mitogen-activated protein kinase 13"],
+				"type": "Gene",
+				"url": "/gene/PA30620"
+			}, {
+				"id": "PA24684",
+				"name": "AKT1",
+				"synonyms": ["AKT serine/threonine kinase 1"],
+				"type": "Gene",
+				"url": "/gene/PA24684"
+			}, {
+				"id": "PA33766",
+				"name": "PRKCG",
+				"synonyms": ["protein kinase C gamma"],
+				"type": "Gene",
+				"url": "/gene/PA33766"
+			}, {
+				"id": "PA30619",
+				"name": "MAPK12",
+				"synonyms": ["mitogen-activated protein kinase 12"],
+				"type": "Gene",
+				"url": "/gene/PA30619"
+			}, {
+				"id": "PA29444",
+				"name": "HRAS",
+				"synonyms": ["HRas proto-oncogene, GTPase"],
+				"type": "Gene",
+				"url": "/gene/PA29444"
+			}],
+			"synonyms": ["ATC:L01XE", "Antineoplastic And Immunomodulating Agents", "Monoclonal antibodies, antineoplastic", "ATC:L", "L", "Protein kinase inhibitors", "ATC:L01XC", "L01XC", "L01XE"],
+			"thumbnailLink": "https://s3.pgkb.org/pathway/PA2032-100px.png?versionId=8pnPI9gRx55OiwlP2359qle7OR9MwqWy",
+			"url": "/pathway/PA2032"
+		}]
+	},
+	"status": "success"
+}

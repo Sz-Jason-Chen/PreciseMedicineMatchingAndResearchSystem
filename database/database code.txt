@@ -1,0 +1,31 @@
+
+create database group_2_ICA;
+use group_2_ICA;
+
+drop table account;
+create table account(
+	username varchar(10),
+	password varchar(20));
+insert into account value("guest", "guest");
+insert into account value("Chen", "1111");
+    
+drop table pathway;
+create table pathway(
+	id varchar(20) primary key,
+    name varchar(80),
+    chemicals varchar(1000),
+    genes varchar(500),
+    pharmacodynamic boolean,
+    pharmacokinetic boolean
+	);
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/pathway.csv' INTO TABLE pathway
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS;
+
+SELECT * FROM account;
+SELECT * FROM pathway where id="PA166287721";
+SELECT id, name, genes FROM pathway;
+
+create user 'DST' @ 'localhost' identified by ''
